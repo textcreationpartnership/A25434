@@ -1,0 +1,1280 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anglia rediviva, or, England revived an heroick poem.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25434</idno>
+            <idno type="STC">Wing A3180</idno>
+            <idno type="STC">ESTC R8525</idno>
+            <idno type="EEBO-CITATION">11644641</idno>
+            <idno type="OCLC">ocm 11644641</idno>
+            <idno type="VID">47979</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25434)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47979)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 7:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anglia rediviva, or, England revived an heroick poem.</title>
+               </titleStmt>
+               <extent>[4], 56 [i.e. 64] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47979:1"/>
+            <pb facs="tcp:47979:1"/>
+            <p>ANGLIA <hi>Rediviva:</hi> OR, ENGLAND <hi>Revived.</hi> AN <hi>Heroick Poem.</hi>
+            </p>
+            <p>London, Anno M.D.C.L.VIII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:47979:2"/>
+            <pb facs="tcp:47979:2"/>
+            <head>To his Highneſſe OLIVER Lord Protector, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>ALL I can hope, when your Highneſſe reads this Piece, is onely your Pardon for my writing it: which I did upon a double im<g ref="char:EOLhyphen"/>pulſion; the Excellency of your Per<g ref="char:EOLhyphen"/>ſon, and the forcible inclination of mine own Genius, to Honour, Ad<g ref="char:EOLhyphen"/>mire, and Celebrate all that is Ex<g ref="char:EOLhyphen"/>cellent.</p>
+            <p>If things happen as I have Ima<g ref="char:EOLhyphen"/>gined them, I am both Poet and Prophet too: If not, I am a Poet onely, who has more liberty than the Hiſtorographer, and his likelihood (moſt commonly) is more worth than tothers Truth.</p>
+            <p>Mean time (my Lord) tis my ambition, not yours; you have glo<g ref="char:EOLhyphen"/>ry
+<pb facs="tcp:47979:3"/>enough in refuſing the Crown, and it ſhould be ours in urging you to the accepting it, which all ſhould do, who underſtand the publique Intereſt: for thoſe who do not, I ſhould be glad to teach them this verity, that (things ſtanding as they do) no Fagot with its band broke, would ſooner fall in pieces; Nor Edifice without foundation, ſooner fall to ruine and deſtruction, than we ſhould, were you a way, (which God defend:) Tis the hearty prayer (my Lord) of one, who has no par<g ref="char:EOLhyphen"/>ticular Intereſt of his own, being ſo wholy unknown unto your Highneſs as it were ſuperfluous for me to ſub<g ref="char:EOLhyphen"/>ſcribe my ſelf by any other name, than only</p>
+            <closer>
+               <signed>Your Highneſſe moſt faithfull Honourer and Admirer.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="canto">
+            <pb n="1" facs="tcp:47979:3"/>
+            <head>Canto 1.</head>
+            <argument>
+               <head>The Argument.</head>
+               <lg>
+                  <l>
+                     <hi>By</hi> Themis <hi>in full Parliament's declar'd</hi>
+                  </l>
+                  <l>
+                     <hi>The Kingdoms ſtate, and want of King, which heard,</hi>
+                  </l>
+                  <l>
+                     <hi>All opinat with general Conſent</hi>
+                  </l>
+                  <l>
+                     <hi>For King again, and Kingly Government.</hi>
+                  </l>
+               </lg>
+            </argument>
+            <lg>
+               <l>NOw the great Body of the State to frame</l>
+               <l>From ſeveral parts, its ſeveral Members came,</l>
+               <l>Juſt as the Sultans Ingeniers, Canons make</l>
+               <l>In ſeveral pieces, they aſunder take</l>
+               <l>Till Warlike execution's to be done,</l>
+               <l>When all the pieces are conjoyn'd in one.</l>
+               <l>And now the Members all inbodyed, ſtrait</l>
+               <l>Aſſume again, their oft aſſum'd debate,</l>
+               <l>The State o'th'Kingdom rightly underſtood,</l>
+               <l>Which moſt conduc'd unto their preſent good,</l>
+               <pb n="2" facs="tcp:47979:4"/>
+               <l>Which moſt their future dangers to prevent,</l>
+               <l>Or popular, or Kingly government.</l>
+               <l>Much for the firſt by popular ſpirited men</l>
+               <l>Conteſted was, and much for th' laſt agen</l>
+               <l>By ſuch, who though they were not Kings, at leaſt</l>
+               <l>Had Kingly ſpirits reigning in their breaſt.</l>
+               <l>Nor could it be determin'd more than when</l>
+               <l>Now <hi>Eurus</hi> blows now <hi>Aquilon</hi> agen,</l>
+               <l>To whither part th' impulſed waves in fine</l>
+               <l>Equally 'twixt both ſuſpended ſhould incline.</l>
+               <l>Untill at laſt <hi>(a) Themis</hi> the ſage aroſe,</l>
+               <l>
+                  <hi>Themis</hi> the juſt, they had for Speaker choſe,</l>
+               <l>Than whom a ſager, nor a juſter man</l>
+               <l>
+                  <hi>Athens</hi> nor <hi>Rome</hi> ne'r bred, and thus began:</l>
+               <l>When 'th politique Body's ſick which (as you know)</l>
+               <l>Has as the Natural, its ſickneſs too,</l>
+               <l>(Faint languiſhings, and ſtrong Diſterp'raturs,</l>
+               <l>Cold Lethargies, and burning Calenturs)</l>
+               <l>It fits the Statiſts, as Phyſicians care,</l>
+               <l>Well to examine what the Cauſes are,</l>
+               <pb n="3" facs="tcp:47979:4"/>
+               <l>What the effects, what every circumſtance</l>
+               <l>May th' cure retard, or malady advance,</l>
+               <l>As with their utmoſt diligence t' explore,</l>
+               <l>Its ſtate of health, and Regiment before,</l>
+               <l>That ſo (thoſe known) they better might apply</l>
+               <l>To every Ill convenient remedy.</l>
+               <l>For ours, what moſt perturb'd us has of late</l>
+               <l>Are ſome diſquiet humours in the State</l>
+               <l>Occaſion'd by unskilfulneſs of <hi>(b)</hi> ſome</l>
+               <l>More skil'd in ſtirring, than in purging them.</l>
+               <l>Of conſequence ſo dangerous, as juſt</l>
+               <l>As th' <hi>Hedg-hog</hi> of its prickly brood, at firſt</l>
+               <l>Might be delivered with little pain</l>
+               <l>Till too indulgent to its eaſe, whilſt fain</l>
+               <l>It would eſcape, by ſhrinking up its wombe</l>
+               <l>At laſt 't dos ſo intollerable become,</l>
+               <l>Without huge torment 't can'ſt delivered be</l>
+               <l>Without huge jeopardy of life. So we</l>
+               <l>So long deferred have the cures of them</l>
+               <l>They almoſt are incurable become</l>
+               <pb n="4" facs="tcp:47979:5"/>
+               <l>By 'indulging them we gaining nothing elſe</l>
+               <l>But ruine and deſtruction of our ſelves.</l>
+               <l>As for the reſt, who is't that does not ſee</l>
+               <l>Our former ſtate of health was Monarchy?</l>
+               <l>As that, which did maintain that ſtate agen</l>
+               <l>In vigorous health, was Kingly Regimen;</l>
+               <l>Nor may we ought expect but craſſy health</l>
+               <l>Whilſt we remain in ſtate of Common-wealth,</l>
+               <l>More than our Bodys but continual pain</l>
+               <l>Till its diſ-joynted Joynts be ſet again.</l>
+               <l>There being a certain Innate quiet in things,</l>
+               <l>Which once diſturb'd, as great diſquiet brings:</l>
+               <l>So th' Mariners needle by ſome tamp'ring hand</l>
+               <l>Turn'd from its North, mark how't dos wav'ring ſtand</l>
+               <l>In reſtleſs agitation and pain</l>
+               <l>Till it return unto its North again.</l>
+               <l>Vice-nature Cuſtom rendring all things light</l>
+               <l>And eaſie t' us. With it there is no weight,</l>
+               <l>No pain: without it, eaſe, repoſe ther's none,</l>
+               <l>But all is trouble, pain, vexation,</l>
+               <pb n="5" facs="tcp:47979:5"/>
+               <l>All is impediment, let, and hinderance,</l>
+               <l>There is no clog but in-accuſtumance.</l>
+               <l>This if we know, ther's hope of remedy,</l>
+               <l>If not, more dangerous is our malady,</l>
+               <l>Since thoſe ſick's healths are moſt deſpair'd of ſtil</l>
+               <l>Imagin they are well, when they are ill.</l>
+               <l>For but compare our Countries former ſtate</l>
+               <l>And welfare, with 'ts condition of late;</l>
+               <l>At home its plenty, and its opulence,</l>
+               <l>Abroad its reputation, when <hi>(c) France</hi>
+               </l>
+               <l>With none than us more feared war, and <hi>Spain</hi>
+               </l>
+               <l>With none than us more wiſhed peace again,</l>
+               <l>When we in all the Chriſtian worlds affairs,</l>
+               <l>Were abſolute Arbiters of peace and wars,</l>
+               <l>And all, not paſsion-blind ſhall ſee themſelves</l>
+               <l>Happier in Kingdoms than in Common-wealths.</l>
+               <l>But ſome perchance will ſay, t'had nothing don</l>
+               <l>Or too much rather Kings had overthrown,</l>
+               <l>If now we ſhould decree (to their diſgrace)</l>
+               <l>T' advance a new ſome others to their place,</l>
+               <pb n="6" facs="tcp:47979:6"/>
+               <l>As if't had been againſt the lawfull uſe</l>
+               <l>Of Kingly government, and not th' abuſe</l>
+               <l>Th'ad tan up arms and ſo much bloud had ſhed,</l>
+               <l>VVhich mighty workat laſt accompliſhed</l>
+               <l>VVhat reſts there, but th'abuſe away being tan</l>
+               <l>The lawfull uſe of Kings ſhould ſtill remain?</l>
+               <l>So when we bend t'on waies a rod or wand,</l>
+               <l>That tother waies did too much bended ſtand,</l>
+               <l>'Tis to redreſſe, and ſtraighten it again,</l>
+               <l>Not that it crooked ſo, ſhould ſtill remain.</l>
+               <l>
+                  <hi>(d)</hi> For <hi>Parlaments</hi> which ſome cry up again,</l>
+               <l>Rare helps of Government, whilſt Kings did reign</l>
+               <l>As formerly with Members all compleat,</l>
+               <l>But not as now, all maim'd and mutilat,</l>
+               <l>We as of fire and water well may ſay</l>
+               <l>That they command ill, though they well obey.</l>
+               <l>Nor is it juſt the <hi>odium</hi> they have caſt</l>
+               <l>On names of latter Kings, ſhould longer laſt</l>
+               <l>Than Love and Reverence w'are oblig'd to bear</l>
+               <l>To names of former Kings who reigned here.</l>
+               <pb n="7" facs="tcp:47979:6"/>
+               <l>
+                  <hi>(e) Edgar</hi> as far extending our command</l>
+               <l>By Sea, as our third <hi>Edward</hi> did by Land,</l>
+               <l>Or our fifth <hi>Henry,</hi> glories of their name</l>
+               <l>And ours, and <hi>Englands</hi> everlaſting Fame.</l>
+               <l>As for the Peoples, Angel, Liberty</l>
+               <l>And Friend, Oppreſsion and Tyranny</l>
+               <l>They err, ſuppoſe this found with Kings alone</l>
+               <l>Proudly and ſternly ſeated on their Throne,</l>
+               <l>Bout which a barbarous crew of Lectors ſtands</l>
+               <l>With viſages as bloudy as their hands</l>
+               <l>Violently keeping all like ſlaves in awe</l>
+               <l>With nothing but their wills and luſts for law.</l>
+               <l>You 'll find as well with th' popularity</l>
+               <l>Who proudly mincing Kings authority</l>
+               <l>Either as rigid, fell, and cruel are</l>
+               <l>As ever yet <hi>Sicilian</hi> Tyrants were</l>
+               <l>Or elſe (oth' contrary) remiſsive grown,</l>
+               <l>Ech ſeeks their private good, the publique none.</l>
+               <l>So whither Kings, Liberties Banks reſtrain</l>
+               <l>Or theſe or' flow them, ſtill the harm's the ſame;</l>
+               <pb n="8" facs="tcp:47979:7"/>
+               <l>And to the State alike pernitious tis</l>
+               <l>Where all is lawfull, or where nothing is,</l>
+               <l>Only of every domination,</l>
+               <l>Whether of many, or of one alone,</l>
+               <l>(Of King or People) this we may conclude,</l>
+               <l>The nobler Lord, the nobler Servitude.</l>
+               <l>For Liberty, which ſome, un-skill'd to make</l>
+               <l>Their right diſtinctions, for licence take,</l>
+               <l>As there no difference were between the thing</l>
+               <l>They freedom call, and <hi>Shrovetide</hi> ryotting;</l>
+               <l>'Tis true, 'mongſt mortals it was found at firſt,</l>
+               <l>Whilſt nothing they deſir'd but what was juſt,</l>
+               <l>Whilſt vertue only kept their minds in awe,</l>
+               <l>And every one was to himſelf a Law.</l>
+               <l>Till Lawleſs grown, and Vice their minds poſ<g ref="char:EOLhyphen"/>ſeſt</l>
+               <l>Expelling Vertue and Juſtice from their breaſt,</l>
+               <l>From Cities, Courts, and Villages it fled,</l>
+               <l>Mans habitation quite abandoned,</l>
+               <l>Making to deſart wilderneſs repair,</l>
+               <l>And ever ſince has liv'd an Hermit there,</l>
+               <pb n="9" facs="tcp:47979:7"/>
+               <l>Chooſing (ſo great averſion 'thas from men)</l>
+               <l>Rather to live amongſt wild Beaſts than them.</l>
+               <l>Only there ſtill remains a baſtard one</l>
+               <l>Begot 'twixt Power and Moderation,</l>
+               <l>That Fantoſm or Fools-Paradiſe 'ith' air</l>
+               <l>With vain endeavour ſome ſeek here, ſome there</l>
+               <l>When all is ſought at laſt you'll find alone</l>
+               <l>In well obeying, juſt dominion.</l>
+               <l>Where one, or more muſt govern; if one, he</l>
+               <l>Is then the King, what ere his Title be,</l>
+               <l>If more, w'ave got by alteration</l>
+               <l>But only this, 'thave many Kings for one:</l>
+               <l>Leſs care for doing well, whilſt each one has</l>
+               <l>So many to participat the praiſe,</l>
+               <l>Nor ill, whilſt they ſo many have again</l>
+               <l>Participating the reproach and ſhame.</l>
+               <l>Let levelling Spirits then, go equal all</l>
+               <l>At home, and wee'll allow them, ſo withall</l>
+               <l>They can aſwell equal and level too</l>
+               <l>Our Neighbours all abroad, which till they do</l>
+               <pb n="10" facs="tcp:47979:8"/>
+               <l>They for our honours ſhould provide but ill</l>
+               <l>To leſſen us, and leave them greater ſtill.</l>
+               <l>For Times are chang'd, and Common-wealths no more</l>
+               <l>In ſuch high reputation, as before</l>
+               <l>When <hi>Romain</hi> Citizens to <hi>Kings</hi> gave Law,</l>
+               <l>And Common-wealths their Kingdoms kept in awe.</l>
+               <l>Now petty Provinces may cantonize</l>
+               <l>And call their Weakneſſes, their Liberties,</l>
+               <l>Whilſt mighty Kingdoms common notion</l>
+               <l>Is many Provinces conjoyn'd in one.</l>
+               <l>If then the Kingdom you'd again reſtore</l>
+               <l>Unto the royalties it poſſeſt before,</l>
+               <l>The publique to their honour and their wealths,</l>
+               <l>The private to their freedom, and themſelves,</l>
+               <l>Nobility its ſplendor, Law its courſe,</l>
+               <l>Juſtice its awe, Authority its force;</l>
+               <l>Make us a Kingdom, give us Kings again,</l>
+               <l>May date from this day their firſt year of reign,</l>
+               <l>As we our firſt of happineſs, happy alone</l>
+               <l>May chooſe our King, and be inforc'd to none.</l>
+               <pb n="11" facs="tcp:47979:8"/>
+               <l>By ſuture times ſo ſhall you equail'd be</l>
+               <l>To thoſe firſt founded have our Monarchy.</l>
+               <l>Since tis as great a work, and greater too</l>
+               <l>To raiſe from ruines, as to build a new.</l>
+               <l>So all things ſetled as they were before</l>
+               <l>None e're ſhall ſeek for innovation more,</l>
+               <l>Nor e're ſhall count more reformation fit,</l>
+               <l>For rightly ordering or our ſelves, or it;</l>
+               <l>So ſhall our foes, and thoſe to them adhear</l>
+               <l>No longer hope, and we no longer fear;</l>
+               <l>So wars, diſſentions, factions, all ſhall ceaſe,</l>
+               <l>And we enjoy an everlaſting peace;</l>
+               <l>So Heaven ſhall bleſs you, and men look upon</l>
+               <l>Your work (in fine) as work of Heaven alone,</l>
+               <l>And all ſhall bleſs and praiſe you, (as tis fit)</l>
+               <l>As Heavens ſole Iuſtruments in doing it.</l>
+               <l>At this unanimouſly all aroſe</l>
+               <l>(Juſt as in Foreſts when <hi>Favonius</hi> blows</l>
+               <l>With gentle breath, and all one waies inclines</l>
+               <l>The heads and murmurs of the lofty pines)</l>
+               <pb n="12" facs="tcp:47979:9"/>
+               <l>Inclining all with gentle murmuring</l>
+               <l>To <hi>Themis</hi> vote, for Kingdom, and for King.</l>
+               <l>But as when this great Fabrique began,</l>
+               <l>
+                  <hi>God</hi> firſt did make the world, &amp; then made man:</l>
+               <l>So they enough of buſineſs did ſuppoſe</l>
+               <l>For firſt daies work, the Kingdom to have choſe,</l>
+               <l>Leaving to an other day their choyce of King,</l>
+               <l>As we t' an other Canto for to ſing.</l>
+            </lg>
+            <trailer>
+               <hi>FINIS CANTO</hi> 1.</trailer>
+         </div>
+         <div type="annotations">
+            <pb n="13" facs="tcp:47979:9"/>
+            <head>ANNOTATIONS Upon the firſt CANTO.</head>
+            <p>(a) <seg rend="decorInit">W</seg>Ith good reaſon <hi>Themis</hi> or Ju<g ref="char:EOLhyphen"/>stice is introduc'd, voting for the poſtliminary Reſtitution (as I mayſay) of <hi>ENGLAND</hi> to its former Royalties again, and ſtate of Kingdom, which immemorable Time be<g ref="char:EOLhyphen"/>fore it had been poſſeſſed of, without diſputing whe<g ref="char:EOLhyphen"/>ther
+<pb n="14" facs="tcp:47979:10"/>
+               <hi>Monarchy</hi> or <hi>Democraty</hi> be the better form of Government, it being beſt for every one to con<g ref="char:EOLhyphen"/>tinue in the ſtate they have alwaies been, and Juſtices part to give to every one their own.</p>
+            <p>(b.) The Biſhops chiefly, who when they per<g ref="char:EOLhyphen"/>ceived Sectaries grown dangerous, forbad them the publique Pulpit, without prohibiting them their pri<g ref="char:EOLhyphen"/>vate conventicles: by which means thoſe peccant hu<g ref="char:EOLhyphen"/>mours droven inwards apoſtumed, and wext after<g ref="char:EOLhyphen"/>wards more dangerous.</p>
+            <p>(c) <hi>France</hi> more feared war with us, than with any other Nation, experiencing alwaies by their loſſes, that they alwaies loſt by it; And <hi>Spain</hi> was ſo deſirous of peace with us, as it became an ordinary Proverb with them <hi>Pace co l' Ingleterra e con toto il mondo guerra,</hi> not caring ſo they had peace with us, though they had war with all the World beſides. For our arbitration of the Chriſtian worlds affairs, we need look up no further than to the times of King <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> the <hi>8th.</hi> and in no other Author than every Chro<g ref="char:EOLhyphen"/>nicle.</p>
+            <p>(d) The Parlament of <hi>England</hi> is neither an imperious Maſter, (as in ſome Countries are their Aſ<g ref="char:EOLhyphen"/>ſemblies of States) nor an abject Vaſſal (as are the Parlaments in other Countries) but only in nature of an humble Friend, to propoſe unto the Soveraign Majeſty what they imagine moſt expedient for the
+<pb n="15" facs="tcp:47979:10"/>Kingdoms good and theirs. Nor is the Soveraign power more bounded and limited by them, than is the Ocean by its ſhore, preſerving it only from effuſion and diſsipation, and not ſo much bounding and limiting it, as not leaving it altogether boundleſs and limit<g ref="char:EOLhyphen"/>leſs, there being certain things which ſeem onerous and burthenſom (as the wheels of Chariots, wings of Birds, and ſuch like) which on the contrary more lighten and alleviat the load. The Soveraign Majeſtrate then in <hi>England</hi> can do all things without Parlament, but only ruine the Kingdom and himſelf, a reſtriction no more derogating from his Soveraign power, than it does from Alm. God's, the not being able to ſin and do amiſs, which on the contrary is one of his moſt God<g ref="char:EOLhyphen"/>like attributes. And all this be ſpoken by the way for the better information of ſome, who count nothing great but what is exceſsive, and imagin how to reign courteouſly as they do in <hi>England,</hi> is only to reign at others courteſies.</p>
+            <p>(e) <hi>Edgar</hi> of whom thus <hi>Daniel</hi> writes, <hi>Edgar</hi> re-edified and ſet forth a Fleet, conſiſting as ſome write of <hi>1600</hi> ſayl, others a far greater number, which he divided and plac'd in four parts of the Realm, ma<g ref="char:EOLhyphen"/>king his progreſs yearly with part of this mighty Navy round about the Iſle.</p>
+            <p>Touching <hi>Edward</hi> the 3d. and <hi>Henry</hi> the 5th. none I ſuppoſe is ſo much a Stranger to our Countries Hiſtories, as not to have read of the Battels of <hi>Creſſy, Poictiers,</hi> and <hi>Agincourt,</hi> where he took the <hi>French</hi> King Priſoner, and conquer'd <hi>France.</hi>
+            </p>
+            <pb n="16" facs="tcp:47979:11"/>
+            <p>(f) Of their furious and fanatical deportments, I need only mention the Anabaptiſts at <hi>Munſter,</hi> under title of the Spirit tyrannizing and perpetrating ſuch horrible Actions, and acting ſuch bloody Tragedies, as no Spirit but that of the Devil could e're ſuggeſt, and juſt ſuch an other Common-wealth we ſhould have in <hi>England,</hi> if your fift Monarchy-men, and ſuch like Rabble of other Sectaries might obtain but their de<g ref="char:EOLhyphen"/>ſires.</p>
+         </div>
+         <div type="canto">
+            <pb n="9" facs="tcp:47979:11"/>
+            <head>Canto 2.</head>
+            <argument>
+               <head>The Argument.</head>
+               <lg>
+                  <l>
+                     <hi>All generally</hi> Oliver <hi>for King do chooſe,</hi>
+                  </l>
+                  <l>
+                     <hi>He modeſtly the Kingdome does refuſe,</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ntill in forc't, his Shoulders he bows down</hi>
+                  </l>
+                  <l>
+                     <hi>To th' Royall Roabs, and Head unto the Crown.</hi>
+                  </l>
+               </lg>
+            </argument>
+            <lg>
+               <l>NOw morn appear'd, and yet you could not ſay</l>
+               <l>By th' doubtfull light, whether t'were night or day</l>
+               <l>As black and white do both in mixture meet,</l>
+               <l>And different ſexes i'th' Hermophodite:</l>
+               <l>And now as ſoon as twi-light they diſcern'd,</l>
+               <l>All haſt to th' Houſe, both curious and concern'd:</l>
+               <l>Theſe Votes to give, and thoſe their Votes to hear,</l>
+               <l>Still greater part in all Aſſemblies were,</l>
+               <l>As in our Theaters, the Spectators are,</l>
+               <l>Than Actors alwayes numerouſer far:</l>
+               <pb n="10" facs="tcp:47979:12"/>
+               <l>All certain of their choiſe, or if there were</l>
+               <l>Any oth' choiſe were yet uncertain there:</l>
+               <l>
+                  <hi>Themis</hi> with pondrous Reaſons thus inclines</l>
+               <l>The ballances of their ſuſpended mindes.</l>
+               <l>Since all (I know) come with prepared breaſt,</l>
+               <l>To chooſe for King, the fitteſt and the beſt,</l>
+               <l>And eaſie is that choice, that has ſome one</l>
+               <l>More eminent than the reſt to fix upon;</l>
+               <l>Moſt eaſie will be ours, have ſuch an one</l>
+               <l>Propos'd to day to our Election:</l>
+               <l>So Eminently worthy, 'bove the reſt,</l>
+               <l>So abſolutely, fitteſt and the beſt:</l>
+               <l>Where he pretends to th' firſt, he ſcarcely has</l>
+               <l>Any may but pretend to th' ſecond place:</l>
+               <l>One at all parts of body and of minde,</l>
+               <l>We well may call the unique of his kinde:</l>
+               <l>One, that who doubts where he deſervs the crown,</l>
+               <l>But ſtand with him in competition;</l>
+               <l>And they ſhall ſoon unto their ſhames confeſſe,</l>
+               <l>If he deſerve it not, themſelves much leſſe:</l>
+               <pb n="11" facs="tcp:47979:12"/>
+               <l>If they, than he much more; ſo every one</l>
+               <l>Muſt needs conclude him worthieſt alone.</l>
+               <l>
+                  <hi>Oliver</hi> I mean, our great <hi>Protector,</hi> who</l>
+               <l>Is both our Glory and our wonder too;</l>
+               <l>How one mans valor could alone ſuffice,</l>
+               <l>T' have gain'd ſo many mighty Victories;</l>
+               <l>Or one mans wiſdome could ſuffice alone,</l>
+               <l>So many mighty Affairs to have undergone.</l>
+               <l>Whoſe modeſty perchance I might offend,</l>
+               <l>Whileſt thus his valour and wiſdom I commend:</l>
+               <l>But he's ſo friend to modeſty I know,</l>
+               <l>He's greater friend to Truth; which being ſo</l>
+               <l>I'le boldly add for Royall dignity;</l>
+               <l>Never was any worthier than He;</l>
+               <l>Never was any worthier th' eſteem</l>
+               <l>Of being made for th'Crown, &amp; th'Crown for him;</l>
+               <l>Whom Heaven inſtructs with every Kingly part,</l>
+               <l>The Serpents prudence, and the Lyons heart,</l>
+               <l>Guarding us from our own and others harms,</l>
+               <l>By's prudent Councels, and victorious Armes.</l>
+               <pb n="12" facs="tcp:47979:13"/>
+               <l>The Eagles providence and peircing eye,</l>
+               <l>All practiſes againſt the State to eſpie,</l>
+               <l>And ſo divine a faculty agen</l>
+               <l>When once eſpied, for preventing them:</l>
+               <l>Tis Heaven elects that man for King, not we</l>
+               <l>Pointing as t'were with th' finger this is he:</l>
+               <l>To which ſo clear election of Heaven,</l>
+               <l>Long ſince we all our ſuffrages have given:</l>
+               <l>
+                  <hi>(a)</hi> If who protects us, in effect's the ſame</l>
+               <l>With <hi>King,</hi> by giving him <hi>Protectors</hi> name:</l>
+               <l>Who put i'th' ſcale with others to compare,</l>
+               <l>Hee'll hoiſt them all like feathers into aire;</l>
+               <l>For Kingly parts, we may oppoſe alone,</l>
+               <l>To all the Kings, that e're poſſeſt the Throne:</l>
+               <l>As his fam'd temperance and clemency,</l>
+               <l>
+                  <hi>(b)</hi> To his libidinouſneſſe and cruelty,
+<note place="margin">
+                     <hi>Hen.</hi> 8.</note>
+               </l>
+               <l>Of either vice, t'was truly ſaid, he <hi>ne're</hi>
+               </l>
+               <l>
+                  <hi>Man in his wroth, woman in's luſt did ſpare:</hi>
+               </l>
+               <l>And his admir'd frugality agen
+<note place="margin">
+                     <hi>Rich.</hi> 2.</note>
+               </l>
+               <l>To th' prodigall waſte, and riotouſnes of him:</l>
+               <pb n="13" facs="tcp:47979:13"/>
+               <l>Who for a feaſt, or Revels ſhort delight</l>
+               <l>The Treaſury of the Land exhauſted quite;</l>
+               <l>Not to compare his judgment and his wit</l>
+               <l>With his, who for a wanton Favourit
+<note place="margin">
+                     <hi>Edw.</hi> 2.</note>
+               </l>
+               <l>Ingag'd ſo far, in fierce and bloody ſtrife,</l>
+               <l>Coſt him at laſt his kingdom and his life.</l>
+               <l>
+                  <hi>(c)</hi> Here one juſt like a Child, or Baby goes</l>
+               <l>Wrapt up in Purple as in Swathing cloaths,</l>
+               <l>Never in councell, never in field appears,</l>
+               <l>Till dying a child at laſt of fourſcore years,</l>
+               <l>This finally unto all-judging Heaven</l>
+               <l>Of's long-ſhort life, is all th'accompt is given,</l>
+               <l>He eat, and ſlept, and dyed, the Sapleſs Tree</l>
+               <l>Is not more ſtock, is not leſs King then he;</l>
+               <l>Whilſt ours like an Intelligence in his ſphere</l>
+               <l>Or orbe, doth every thing, is every where,</l>
+               <l>Actuats, puts life in buſineſſe, commands,</l>
+               <l>In councell, is all head, in Act all hands,</l>
+               <l>Perpetuall faſt, perpetuall vigil keeps;</l>
+               <l>And when affaires exact, ſcarce eats or ſleeps.</l>
+               <pb n="14" facs="tcp:47979:14"/>
+               <l>
+                  <hi>(d)</hi> Another yet more ſhame to kingly ſtate,</l>
+               <l>Becomes by niceneſs ſo effeminate;</l>
+               <l>Like <hi>Nero</hi> Caſtrated we well may call</l>
+               <l>Half man, half woman, and whole monſter all;</l>
+               <l>For getting ſo themſelves by flattering them</l>
+               <l>They think th'are Gods whilſt they are ſcarcely men</l>
+               <l>We well the peſt of humane kind may call,</l>
+               <l>Th'are ſo puft up, and ſo do ſwell on all:</l>
+               <l>Whilſt ours (with maſculin virtue) pride dos take;</l>
+               <l>
+                  <hi>(e)</hi> Only great ſtates, of little on's to make,</l>
+               <l>So civil, courteous, debonaire to all</l>
+               <l>We him delight of humane kind may call,</l>
+               <l>One neither froward with his honours weight</l>
+               <l>Proud of their ſtore, nor giddy with their height,</l>
+               <l>Giving the praiſe of all he has (in ſumm)</l>
+               <l>Only to heaven from whom all honours come.</l>
+               <l>And laſtly whilſt another you ſhall finde</l>
+               <l>So weak of ſpirit, impotent of minde,</l>
+               <l>As giving's paſſion every thing it craves</l>
+               <l>H' unkings his Reaſon, and himſelf inſlaves,</l>
+               <pb n="15" facs="tcp:47979:14"/>
+               <l>Living like Lions in their dens at home,</l>
+               <l>Fearfull to all when they abroad do come</l>
+               <l>Ours hear, not Lord but <hi>(f)</hi> Father we may call,</l>
+               <l>In private ſtudies the obliging all</l>
+               <l>In publique, like the chearfull ſun appears</l>
+               <l>To all mens comforts, but to no mans fears,</l>
+               <l>Bravely commanding o'rs his paſſions ſo</l>
+               <l>When he bids ſtay, they ſtay; when go, they go,</l>
+               <l>And all in ſuch ſubjection do's bring</l>
+               <l>Where Kings are ſlaves, he there dos raign a king,</l>
+               <l>Then let us chooſe him king, w'are ſure can tell</l>
+               <l>By well obeying, to command as well;</l>
+               <l>And who (with all) w'are ſure will as he do's</l>
+               <l>Command more ſtrictly or'e himſelf than us.</l>
+               <l>At this like Inſtruments tund uniſon</l>
+               <l>Each cord reſounding at the found of one,</l>
+               <l>To be the firſt, each one did make ſuch haſt</l>
+               <l>To ſecond him, ſcarce any one was laſt,</l>
+               <l>Nor ever was there louder conſort known</l>
+               <l>Nor more concordant voices joyn'd in one</l>
+               <pb n="16" facs="tcp:47979:15"/>
+               <l>When who had ſeen glad <hi>England</hi> that had been</l>
+               <l>In mourning long, juſt like ſome widow'd Queen:</l>
+               <l>Finding her ſelf unable all alone</l>
+               <l>To weyld the ſcepter, and ſupport the Throne;</l>
+               <l>Had choſe ſome princely husband well ſhe knew</l>
+               <l>Could weyld the one, ſupport the other too;</l>
+               <l>Might frame the Image of a joy too great</l>
+               <l>For mans expreſſion, or for mans conceit.</l>
+               <l>But ſee the force of modeſty, can ſtay</l>
+               <l>Kingdomes in full ſpeed like ſome <hi>Remora:</hi>
+               </l>
+               <l>Whilſt he Importun'd was by every one</l>
+               <l>With force and prayers to accept the crowne</l>
+               <l>Prouf'gainſt thoſe importunities of theirs;</l>
+               <l>H' oppoſes force to force, and pray'rs to pray'rs;</l>
+               <l>Knowing ſo well the pondrous weight o'th'crown</l>
+               <l>He wold not ſtoupfort tho'twas thrown him down</l>
+               <l>What others would have div'd the deepeſt maine</l>
+               <l>And clim'd aires higheſt Region to obtain;</l>
+               <l>Saying to 's ſilent thoughts, h'ad nothing done</l>
+               <l>Or coming, ſhould he now be overcome:</l>
+               <pb n="17" facs="tcp:47979:15"/>
+               <l>And he ſhould looſe in this one Victory o're</l>
+               <l>Himſelf, all th' victories he had gain'd before:</l>
+               <l>No, no, (quoth he) 't ſhall ne're be ſaid that I</l>
+               <l>Ambitious was of Soveraignty:</l>
+               <l>Nor ſhall the People ever ſay agen,</l>
+               <l>That I had Conquerd for my ſelf, not them;</l>
+               <l>For me, I'm ready, when their dangers ask</l>
+               <l>To put my Armour on, and heavy Cask,</l>
+               <l>The Royall Ornaments and Crown (ſaid he)</l>
+               <l>Let who's liſt take, who's liſt put on for me;</l>
+               <l>Reſolv'd to live and dye with this Renown,</l>
+               <l>Tis gloriouſer to win, than wear the Crown.</l>
+               <l>Let thoſe with glittering things ſo pleaſed be,</l>
+               <l>They even are pleas'd with glittering miſery,</l>
+               <l>Be taken with't, for me, I think 't heavens will</l>
+               <l>For ſuch as thoſe to guild the bitter Pill;</l>
+               <l>And bait the Inward hook, with outward ſweet,</l>
+               <l>None elſe would be ſo fond to ſwallow it;</l>
+               <l>Such is the happineſſe of uncrowned heads,</l>
+               <l>They find ſoft reſt even in the hardeſt beds:</l>
+               <pb n="18" facs="tcp:47979:16"/>
+               <l>While ſuch is their unhappineſſe wear the crown,</l>
+               <l>They hardly reſt even in their beds of down.</l>
+               <l>Nor did he this now out of ſluggiſhneſſe,</l>
+               <l>Like ſome love honour, but more love their caſe,</l>
+               <l>Contented ſtill the greateſt part to ſhare</l>
+               <l>Oth' Kingdomes troubles and the kingdoms care;</l>
+               <l>Whilſt freely he reſign'd to others, all</l>
+               <l>By falſer Titles, they Illuſtrious call.</l>
+               <l>So the Libidinous may refuſe a Wife</l>
+               <l>For incommodities of mariage life;</l>
+               <l>But when that incommodities are none.</l>
+               <l>But they refuſe for Continence alone,</l>
+               <l>From all the Rags of Intereſt, ſtript and free.</l>
+               <l>Their ſingle life than ſhews moſt gloriouſly.</l>
+               <l>But be't our vice or virtue to become</l>
+               <l>More vehement by oppoſition,</l>
+               <l>Or modeſty, to merit adds a grace</l>
+               <l>Makes it appear twice worthier than it was;</l>
+               <l>Or Honour has our ſhaddows property,</l>
+               <l>To fly who follows, follow thoſe who fly;</l>
+               <pb n="19" facs="tcp:47979:16"/>
+               <l>This his refuſall rendred them but more</l>
+               <l>Eager to preſſe him than they were before;</l>
+               <l>Counting him now doubly for honour fit</l>
+               <l>Both for deſerving and refuſing it.</l>
+               <l>When ſeeing all refuſall was in vain</l>
+               <l>To thoſe, wear full reſolved to obtain,</l>
+               <l>Forc't, his unwilling ſhoulders he bowd down,</l>
+               <l>To th' Royall Roabs, and head unto the Crown;</l>
+               <l>Eſpecially ſince ſo great conſentment ſhowd</l>
+               <l>The voice oth' People was the voice of God;</l>
+               <l>From whom then, by their hands deliver'd him,</l>
+               <l>He did accept the Royall Diadem:</l>
+               <l>At which the numerous multitude aloud,</l>
+               <l>With voices heaven, as they the earth did croud,</l>
+               <l>Made th' middle vault with acclamations ring</l>
+               <l>In joyfully proclaiming him their King:</l>
+               <l>Whilſt one more eloquent amongſt the reſt</l>
+               <l>In's one voice thus, the voice of all expreſt.</l>
+               <l>Even ſuch a perſon, ſuch a minde as thine</l>
+               <l>Brave <hi>Heroe</hi> Emperours had in ancient time;</l>
+               <pb n="20" facs="tcp:47979:17"/>
+               <l>When chooſing men for Empire onely ſit,</l>
+               <l>The braveſt mind and Perſon carried it;</l>
+               <l>Till by a Tenour worſe than <hi>Gavel-kinde,</hi>
+               </l>
+               <l>They Empire gave to th' body, not the minde,</l>
+               <l>Kings in cold blood, their Active heat quite gone,</l>
+               <l>Becoming ſuch chil paſſive things alone,</l>
+               <l>No wonder they and th' Throne together fall</l>
+               <l>"Where men do nothing, Titles can't do all.</l>
+               <l>But pitty (alas!) rather than envy thoſe,</l>
+               <l>For others virtues, not their own are choſe;</l>
+               <l>Tis Fortune to be Kings as others be,</l>
+               <l>But onely virtue to be one like thee.</l>
+               <l>And who now doubts whe're he be King or no</l>
+               <l>The people generally have proclaimed ſo?</l>
+               <l>Or who ſo ſelly is, to doubt again,</l>
+               <l>Where he or no legitimatly raign;</l>
+               <l>The Laws confirm, together with th' applauſe</l>
+               <l>Of the whole Kingdome, that confirms thoſe laws.</l>
+            </lg>
+            <trailer>
+               <hi>FINIS</hi> CANTO 2.</trailer>
+         </div>
+         <div type="annotations">
+            <pb n="21" facs="tcp:47979:17"/>
+            <head>ANNOTATIONS on the Second CANTO.</head>
+            <p>(a) <hi>
+                  <seg rend="decorInit">O</seg>F Soveraign Titles, ſome are Military ſome Civil; that of</hi> Imperator, <hi>or</hi> Emperour, (<hi>as</hi> Dux <hi>or</hi> Duke) <hi>moſt properly taking its denomination from the wars; the one ſignifying one who has Soveraign Command over the Ar<g ref="char:EOLhyphen"/>my, the other one who leads an Army, though ſince promiſcuouſly us'd, and appropriated to Civill government as military conquerers appropriated to
+<pb n="22" facs="tcp:47979:18"/>to themſelves the Countries Conquered. That of</hi> Rex <hi>or</hi> King <hi>moſt properly ſignifies a Pacifique Ruler or Governour, whoſe Office being chiefly to Defendand Protect the People.</hi> King <hi>and</hi> Protector <hi>are but Titles convertible (in this ſenſe) and ſignifie but one and the ſame thing; though in</hi> England <hi>the papular ear, be more accuſtomed to the ſound of t'one than tother, and their minds to a more awfull reverence of the name.</hi>
+            </p>
+            <p>
+               <hi>(b)</hi> Henry <hi>the</hi> 8. <hi>is reported in diſparing manner at his death to have ſaid (to one who put him in mind of Gods mercies</hi>) How can he have mercy on me, who never ſpared man in my wrath, nor woman in my luſt? <hi>A fearfull example to all ſuch as he, if it be true, as like enough it is, conſidering the libidinouſ<g ref="char:EOLhyphen"/>neſſe and cruelty of his life.</hi>
+            </p>
+            <p>Richard <hi>the</hi> 2. <hi>Is famous in Hiſtory for his magni<g ref="char:EOLhyphen"/>ficence even to profuſion and prodigality, which pro<g ref="char:EOLhyphen"/>ved his ruine in the end; for what Princes ſpend pro<g ref="char:EOLhyphen"/>digally one wayes, they injuriouſly extort of the People the other; of which whilest they complained (who are alwayes moſt inſolent over neceſſitous Princes) that quarrell begun, was never ended but by his untimely end.</hi>
+            </p>
+            <p>
+               <hi>There is nothing in our Chronicles more notorious than</hi> Edward <hi>the</hi> 2s. <hi>immoderate favor to</hi> Peirce Ga<g ref="char:EOLhyphen"/>veſton, <hi>and the</hi> Spencers, <hi>which coſt them all their lives at last. The too great favour of weak Princes not able to defend them from the hatred of the people, and envy of the Nobility, proving alwayes fatall to their
+<pb n="23" facs="tcp:47979:18"/>Favourites in the end, if not unto themſelves (as it did to this unfortunate Prince) the counterblow of the blow given the Favourite, moſt commonly lighting upon them at laſt.</hi>
+            </p>
+            <p>(c) <hi>Such a ſhaddow of a King was</hi> Arideus, Alex<g ref="char:EOLhyphen"/>anders <hi>umbratile ſucceſſor, according to</hi> Plutarch <hi>and others.</hi>
+            </p>
+            <p>(d) <hi>There are but too many examples of ſuch Prin<g ref="char:EOLhyphen"/>ces, taught ſo long by their Flatterers to remember their Authorities as they forget themſelves: even to ſuffer themſelves like</hi> Herod <hi>to be cryed up for gods, whilſt the poor miſerable man (like a painted Sepul<g ref="char:EOLhyphen"/>cher) all glorious without, was all conſumed within with worms and vermine.</hi>
+            </p>
+            <p>(e) <hi>Alluding to that ſaying of</hi> Themiſtocles, <hi>who requeſted to touch I know not what Inſtrument of mu<g ref="char:EOLhyphen"/>ſick (a quality then much in vouge and faſhion a<g ref="char:EOLhyphen"/>mongſt the nobler and better ſort) anſwered;</hi> He could not Fiddle, but he could make a great Citty of a little one.</p>
+            <p>(f) <hi>So they ſtile</hi> Titus Veſpaſian, <hi>and deſervedly, it being his uſuall</hi> motto, <hi>that none ſhould ever depart a Princes preſence diſconſolate and ſad, whence he never denyed them any boon they asked; and if per<g ref="char:EOLhyphen"/>chance he remembred at night that none that day had askt him any, he was accuſtumed to ſay, in ſighing
+<pb n="24" facs="tcp:47979:19"/>to thoſe about him, that</hi> He had loſt a day; <hi>counting his life more by giving than by living, and living more for others than for himſelf.</hi>
+            </p>
+            <p>(g) Pater patriae, <hi>or father of their Country was a title more ambitioned by the antients, then that of</hi> King <hi>or</hi> Emperour, <hi>it ſpeaking ſomewhat more of gen<g ref="char:EOLhyphen"/>tleneſs than tother; and conſequently more of lasting<g ref="char:EOLhyphen"/>neſſe, for</hi> nihil violentum diu, <hi>nothing violent can last.</hi>
+            </p>
+         </div>
+         <div type="canto">
+            <pb n="25" facs="tcp:47979:19"/>
+            <head>Canto 3.</head>
+            <argument>
+               <head>The Argument.</head>
+               <lg>
+                  <l>
+                     <hi>In paſſing forth to's cornation</hi>
+                  </l>
+                  <l>
+                     <hi>His Triumphs, Trophees, in firſt Arch are ſhown.</hi>
+                  </l>
+                  <l>
+                     <hi>His Battails, victories gained every where,</hi>
+                  </l>
+                  <l>
+                     <hi>All ſpeaking him a mighty conquerer.</hi>
+                  </l>
+               </lg>
+            </argument>
+            <lg>
+               <l>ANd now that day more gloriouſly ſhone,</l>
+               <l>Made gloriouſer by's Coronation:</l>
+               <l>When Envie pale companion of night</l>
+               <l>And darkneſs, dazzled with ſo great a light,</l>
+               <l>To caverns ſubterren Inhabited</l>
+               <l>By guilt, and miſchief, all aſtoniſht fled,</l>
+               <l>Where it abſorping its own venume lay,</l>
+               <l>With grief and anguiſh, quite conſum'd away.</l>
+               <l>Mean time the coronation pomp ſet on</l>
+               <l>Aſſiſted by the joyes of every one:</l>
+               <pb n="26" facs="tcp:47979:20"/>
+               <l>Old men in bleſſing time, th'ad liv'd to ſee</l>
+               <l>The joyfull day of that ſolemnitie;</l>
+               <l>Children and Babes rejoycing they were come</l>
+               <l>In time to ſee it from their mothers womb;</l>
+               <l>The ſtreets they paſt all pav'd with feet, the aire</l>
+               <l>All canopy'd with heads, (aſſembled there,)</l>
+               <l>And windors glaz'd with eyes; whilſt <hi>Oliver</hi>
+               </l>
+               <l>Did all in gallant Equipage appear;</l>
+               <l>His noble courſer prauncing as he rod,</l>
+               <l>As it were proud, and glorious of its load:</l>
+               <l>Nor long h'ad rid, e're he eſpy'd (a far)</l>
+               <l>(High rayſ'd) the firſt Triumphant arch of warr</l>
+               <l>By fower faire <hi>(a)</hi> dorick pillars was ſuſtaind,</l>
+               <l>As many large compartements contain'd,</l>
+               <l>The ſeverall monuments of his victories</l>
+               <l>To take the curious, and the wondring eyes.</l>
+               <l>Above, and all about, diſpoſed are</l>
+               <l>In various bordurs, Inſtruments of war,</l>
+               <l>Drums, trumpets, Clarions; as warres utenſils.</l>
+               <l>Swords, pickes, &amp; guns, in ſheavs, &amp; by themſelves;</l>
+               <pb n="27" facs="tcp:47979:20"/>
+               <l>Neither the Idumenian Palms did want,</l>
+               <l>Branching from Crowns, for greater ornament;</l>
+               <l>Than to afford the ſculpters art more ſcope,</l>
+               <l>The Front was highly rais'd, and on the top</l>
+               <l>In a fair Nich, <hi>England</hi> triumphant ſat,</l>
+               <l>
+                  <hi>Victory</hi> o're head, each ſide for greater State,</l>
+               <l>Two Siſter Kingdoms ranckt beneath her ſtood;</l>
+               <l>She could have us'd like Captives if ſhe wo'd:</l>
+               <l>As in a ſcedule there annex'd was ſed,</l>
+               <l>
+                  <hi>Oliver for England theſe had conquered.</hi>
+               </l>
+               <l>A wood of Lawrell then inviron'd her,</l>
+               <l>As planted by the hand o'th Conquerer:</l>
+               <l>And in that wood diſperced all about,</l>
+               <l>Trophees of ſeveral Battails he had fought,</l>
+               <l>Which ſtriving to expreſs at every part,</l>
+               <l>The ſculpter had exhauſted all his Art.</l>
+               <l>The baſes of its pillars did contain,</l>
+               <l>The ſeveral Towns and Fortreſſes h'ad tan;</l>
+               <l>The raz'd ſo figur'd as they ſeem'd to ly,</l>
+               <l>Now level with the ground, once ſtood ſo high:</l>
+               <pb n="28" facs="tcp:47979:21"/>
+               <l>Others as they their ſieges, ſcares did bear,</l>
+               <l>Seem'd as their Rampards all demoliſht wear.</l>
+               <l>Twixt them, the two compartments below,</l>
+               <l>As many of his fam'd exploits did ſhew;</l>
+               <l>His <hi>Iriſh</hi> firſt, where 'gainſt his activeneſs,</l>
+               <l>Nothing avail'd its boggs and faſtneſſes:</l>
+               <l>Nor do their ſwiftneſs more advantage them,</l>
+               <l>Than 'twould againſt <hi>(b) Atlante</hi>'s ſelf, 'gainſt him.</l>
+               <l>Nothing ſo Invious but he over-runs,</l>
+               <l>Nothing ſo Arduous but he overcoms;</l>
+               <l>Griev'd that Reſiſtance he not found enough</l>
+               <l>To put his noble valour more to proof;</l>
+               <l>For victory, juſt like ware too cheaply priz'd</l>
+               <l>By th' victor is conte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed and deſpiſ'd:</l>
+               <l>So here the <hi>Iriſh</hi> at ſo cheap a rate,</l>
+               <l>Did ſell their Lives, their Liberties and State:</l>
+               <l>He well might ſay, he <hi>(c)</hi> came, ſaw, overcome,</l>
+               <l>So ſoon they fled, ſo ſoon was <hi>Ireland</hi> wone.</l>
+               <l>Poore land its fall by riſing deer bought,</l>
+               <l>Whilſt inauſpiciouſly it freedome ſought:</l>
+               <pb n="29" facs="tcp:47979:21"/>
+               <l>Now muſt thy <hi>kerns</hi> forſake their native land,</l>
+               <l>And forced by their Conquerours command;</l>
+               <l>In forraign Countryes baniſht and exil'd,</l>
+               <l>Add ſtile of Vagabond, to that of wild.</l>
+               <l>Now may they anſwer, as the <hi>hebrews</hi> did,</l>
+               <l>When they to far captivity wear led,</l>
+               <l>And urg'd to their ſuſpended Harps to ſing</l>
+               <l>"Songs ill become our plaints and ſorrowing;</l>
+               <l>"Thoſe won our <hi>Harp,</hi> far better it becomes,</l>
+               <l>'Than us(alas!) to ſing triumphant ſongs.</l>
+               <l>Then paſſing unto <hi>Brittany</hi> again,</l>
+               <l>To ſeek more victories o're the watry main:</l>
+               <l>(The porch betwixt, all waved as the ſea;</l>
+               <l>Here veſſels ſaile, and there the dolphins play)</l>
+               <l>Returnd, he finds new matter for his ſword</l>
+               <l>To work on, brought by th' <hi>Hamiltonian</hi> Lord,</l>
+               <l>Who both to's own, and to his Countries coſt</l>
+               <l>Invaded <hi>England</hi> with a numerous hoſt;</l>
+               <l>Who whileſt in number onely they conſide</l>
+               <l>With nothing of the ſouldier beſide:</l>
+               <pb n="30" facs="tcp:47979:22"/>
+               <l>Lay ſo diſorder'd, and ſo ſcatteringly</l>
+               <l>They afforded us too cheap a Victory,</l>
+               <l>And at ſo vile a rate did ſell themſelves,</l>
+               <l>They ſeem'd the victors ſport and nothing elſe.</l>
+               <l>So when a flock of filly heartleſſe ſheep:</l>
+               <l>O're w<hi rend="sup">ch</hi> the Sheapheard careleſſe guard dos keep,</l>
+               <l>I'th' paſture ſtragling goes, ſome Lyon comes,</l>
+               <l>And in a moment all the flock o're runs:</l>
+               <l>Here one is ſlain, another there dos fall:</l>
+               <l>His ſport or pray, till h'as deſtroyed them all.</l>
+               <l>Unquiet and ambitious <hi>Hamilton,</hi>
+               </l>
+               <l>Dear didſt thou pay for thy Ambition,</l>
+               <l>Dear for diſquiet, fomented by thee,</l>
+               <l>Both in Religion and in Monarchy.</l>
+               <l>Now, all the harm in <hi>Scotland</hi> thou haſt bred</l>
+               <l>In <hi>England</hi> juſtly fals upon thy head:</l>
+               <l>Heaven ſo ordaining, things wherein w' offend</l>
+               <l>Should ever prove our puniſhments ith' end.</l>
+               <l>But ſince tis fit ſome Epitaph thou have,</l>
+               <l>This be the Epitaph written on thy grave</l>
+               <pb n="31" facs="tcp:47979:22"/>
+               <l>By <hi>Ignis fatuus</hi> of State, miſled,</l>
+               <l>Who neer did reſt alive, reſts now he's dead:</l>
+               <l>And he who griev'd his head did want a Crown,</l>
+               <l>To ſuch ambitious height his mind was grown,</l>
+               <l>By one dayes chance of war, ſo low did fall,</l>
+               <l>He wanted both a Crown, and Head and all.</l>
+               <l>
+                  <hi>Dunbar</hi> is next in proſpective appears,</l>
+               <l>Than w<hi rend="sup">ch</hi> no fight more numerous trophies bears</l>
+               <l>Unto the Conquering ſide; than which no field</l>
+               <l>More wreaths of Laurel, did to th'conqueror yeeld</l>
+               <l>(Though gain'd from thoſe, were neither Laureat,</l>
+               <l>In Arts nor Arms, Religion nor State.)</l>
+               <l>Here (in effect) their ruine firſt began,</l>
+               <l>Was finiſht after, juſt as th' battring Ram,</l>
+               <l>When once the wals and lofty Towers it ſhakes,</l>
+               <l>And for the ſouldier breach and entrance makes,</l>
+               <l>Upon the Town, they pell mell on do fall,</l>
+               <l>And in a moment pill and ſack it all.</l>
+               <l>So in the next fatall <hi>Wosterian</hi> fight,</l>
+               <l>That ruine here began, was finiſht quite;</l>
+               <pb n="32" facs="tcp:47979:23"/>
+               <l>Victory no leſſe did to'ther victory Crown,</l>
+               <l>Than taking th' fort, dos taking of the Town.</l>
+               <l>Here thoſe were overthrown, who did in vade</l>
+               <l>
+                  <hi>Scotland</hi> to <hi>England's</hi> tributary made</l>
+               <l>Here all its glorie's loſt, and in this field</l>
+               <l>St. <hi>Andrews,</hi> to St. <hi>Georges</hi> croſse dos yeeld,</l>
+               <l>The Royall Scottiſh <hi>Lyon's,</hi> almoſt tane,</l>
+               <l>And his Engraile converted to a chaine;</l>
+               <l>Here th'Scotch Nobility all are overcome,</l>
+               <l>Routed and ſlain, and here was <hi>Scotland</hi> won.</l>
+               <l>Go now and boaſt you never Conquer'd were</l>
+               <l>Nor ever taught the ſervile yoak to bear:</l>
+               <l>
+                  <hi>Oliver</hi> in this one Action has done more</l>
+               <l>Than <hi>Rome,</hi> or <hi>England</hi> e're could do before,</l>
+               <l>Outdoing <hi>Caeſars</hi> by his conquering you,</l>
+               <l>And all our <hi>Edwards</hi> and our <hi>Henry's</hi> too.</l>
+               <l>Nor grieve fort, for by him tis a degree</l>
+               <l>Next unto Conquering, conquered to be,</l>
+               <l>As to be civilized, is no ſervitude,</l>
+               <l>But Liberty, for the Barbarous and rude:</l>
+               <pb n="33" facs="tcp:47979:23"/>
+               <l>So tis for you abuſe your Liberty</l>
+               <l>Far better now to ſerve than to be free.</l>
+               <l>For now no more (an Art ye know too well)</l>
+               <l>You ſhall againſt your King, nor Church rebell.</l>
+               <l>Who diſobedience learn to Monarchy,</l>
+               <l>By diſobedience unto Hierarchy.</l>
+               <l>Now ſhall your Caſtles all unraſed ſtand</l>
+               <l>More ras'd by yours, than by your Conquerours hand.</l>
+               <l>Now all your broyls and deadly feud ſhall ceaſe,</l>
+               <l>And you be taught by Warr, to live in Peace.</l>
+               <l>Nor ought ye of our Juſtice to complain,</l>
+               <l>Who thus repay the war you lent, again,</l>
+               <l>It was no free, but mercenary war,</l>
+               <l>You Covenanted to be payd, and ſo you are.</l>
+               <l>Next this in midſt of all the Arch appear'd</l>
+               <l>
+                  <hi>Oliver</hi>'s Equeſtrian ſtatua highly rear'd,</l>
+               <l>In compleat Armour mounted on his ſteed,</l>
+               <l>Joy to his friends, terror to's foes did breed,</l>
+               <l>Above his head ſuſpended every Crown</l>
+               <l>As ever yet won Conquerour renown,</l>
+               <pb n="34" facs="tcp:47979:24"/>
+               <l>(e) <hi>Caſtrenſick, Murick,</hi> and above them all</l>
+               <l>That far more glorious one, they <hi>Civick</hi> call.</l>
+               <l>While ſaving one of's own, he more did prize,</l>
+               <l>Than killing thouſands of his Enemies.</l>
+               <l>So carefull was he of them, as he wo'd</l>
+               <l>Scarce leave to Fortune, powr to ſpill their blood,</l>
+               <l>Their Armes ſo ſtrong, Death's darts could hardly pierce,</l>
+               <l>This made them ſo couragious &amp; fierce,</l>
+               <l>For nothing can a Souldiers heart diſmay,</l>
+               <l>When fear of death, and danger is away.</l>
+               <l>How much does <hi>England</hi> ow him for this care?</l>
+               <l>Who ſtrove to make it an unbloodyed War,</l>
+               <l>Whilſt others car'd not ſo they Conquered</l>
+               <l>How much of <hi>Engliſh</hi> blood they ſpilt and ſhed.</l>
+               <l>An other ſcore, ſhe ows him for no leſs</l>
+               <l>Was his perpetual care and wachfulneſs</l>
+               <l>For th' Sun ne're roſe, but he was up before</l>
+               <l>The countenance of the Enemy to explore,</l>
+               <l>Their marches; and advantages to find</l>
+               <l>Of joyning battail; when the battail joynd</l>
+               <pb n="35" facs="tcp:47979:24"/>
+               <l>Never was greater reſolution ſhown</l>
+               <l>
+                  <hi>(Ceſars</hi> was <hi>Ceſars</hi> but his own's his own)</l>
+               <l>With ſuch celerity following <hi>(f)</hi> Victory</l>
+               <l>Such vigor, ſuch Impetuoſity,</l>
+               <l>Maugre her wings, even from the Enemies hoſt,</l>
+               <l>Hee'd fetch her back to's own, when ſhe was loſt,</l>
+               <l>Like Thunder, or a threatning Ruine juſt</l>
+               <l>Falling o'th'foe, and cruſhing them to duſt.</l>
+               <l>Now after having given you hint of theſe,</l>
+               <l>We might conduct him to the Arch of peace,</l>
+               <l>There to repoſe his wearied Limbs at laſt</l>
+               <l>After ſo many Toyls and Labours paſt,</l>
+               <l>But that 'mongſt all the reſt of's Triumphs, was</l>
+               <l>By th'skilfull Artiſt left one vacant ſpace</l>
+               <l>There to inſert an other victory,</l>
+               <l>Over a far more puiſſant Enemy;</l>
+               <l>Over a far more pertinacious one</l>
+               <l>Than all the reſt whom he had overcome,</l>
+               <l>The Envie of his high Felicity,</l>
+               <l>Honours, and Dignities, an Enemy,</l>
+               <pb n="36" facs="tcp:47979:25"/>
+               <l>Even <hi>Hercules</hi> after all his Labours paſt</l>
+               <l>Had much ado to overcome at laſt.</l>
+               <l>Such yet's his modeſty in bearing u'm,</l>
+               <l>That too (no doubt) at laſt he'ill overcome;</l>
+               <l>As what ſo ever other Enemies,</l>
+               <l>Shall dare againſt him in Rebellion riſe.</l>
+            </lg>
+            <trailer>
+               <hi>FINIS</hi> CANTO 3.</trailer>
+         </div>
+         <div type="annotations">
+            <pb n="37" facs="tcp:47979:25"/>
+            <head>ANNOTATIONS on the Third CANTO.</head>
+            <p>(a) <seg rend="decorInit">T</seg>O ſay nothing of the <hi>Tuſcan</hi> (or baſis of all the rest) there are three orders of Pillars, the <hi>Dorick, Jonick</hi> and <hi>Corinthian,</hi> which (beſides their proportions) are chiefly diſtinguiſht by their Acanthes or Coronements, the Crown of the <hi>Dorick</hi> more maſſive plain, and therefore attributed
+<pb n="38" facs="tcp:47979:26"/>by the Antients to more maſculine uſes, as building the Temples of their gods: The <hi>Corinthian</hi> more flowry and flouriſhing; and therefore accoumpted more feminine, and chiefly imployed in the Temples of their goddeſſes; obſerving which <hi>decorum</hi> or di<g ref="char:EOLhyphen"/>ſtribution, I make the Arch of War ſuſtained by <hi>Do<g ref="char:EOLhyphen"/>rick</hi> Pillars, as afterwards that of Peace by <hi>Corin<g ref="char:EOLhyphen"/>thian.</hi>
+            </p>
+            <p>
+               <hi>(b) Atlanta</hi> was feigned ſo ſwift and light of foot, as ſhee would run o're heads of ſtanding Corn, with<g ref="char:EOLhyphen"/>out ere laying, or depreſſing them.</p>
+            <p>
+               <hi>(c)</hi> Alluding to the motto of <hi>Ceſars</hi> Victory over <hi>Pharnaces</hi> King of <hi>Pontus, Veni, vidi, vici,</hi> whoſe incredible Celerity and Felicity in Conquering, his Highneſſe in all his Expeditions (as in all his other Military vertues) ſeems to equalize.</p>
+            <p>
+               <hi>(d)</hi> The boaſt of <hi>Galgacus</hi> a Scottiſh Generall, re<g ref="char:EOLhyphen"/>corded by <hi>Tacitus</hi> (in the life of <hi>Julius Agricula</hi>) in theſe words; <hi>We the flower of the Brittiſh Nobi<g ref="char:EOLhyphen"/>lity, and therefore ſeated the fartheſt in, never beheld the Coaſt of Countries in ſervitude,</hi> &amp;c. the whole Oration being richly worth the reading, and obſerving.</p>
+            <pb n="39" facs="tcp:47979:26"/>
+            <p>
+               <hi>(e)</hi> The Romains anſwerable to their ſeveral merits, rewarded their Soldiers with ſeveral military Crowns; The <hi>Caſtrenſick</hi> (otherwiſe the <hi>Valaris</hi>) was be<g ref="char:EOLhyphen"/>ſtow'd on them who had expugn'd the Enemies Camp, the beams or <hi>Radii</hi> of which Crown, were ſeveral <hi>pales</hi> or <hi>paliſads</hi> affixed to the Wreath or Circle, as the bat<g ref="char:EOLhyphen"/>tlements of walls were to the <hi>Murick</hi> Crown, be<g ref="char:EOLhyphen"/>ſtowed on thoſe who had firſt ſcaled the walls of any Town or place: And both theſe were of gold; but the <hi>Civick</hi> Crown, (the reward of him, who had ſaved the life of any Citizen, or Souldier) was the honourablest of all, though compoſed onely of Oaken leaves, they wiſely ſeting the price of their rewards, more in the ho<g ref="char:EOLhyphen"/>nour, than the richneſs of the Crown.</p>
+            <p>
+               <hi>(f) Victory</hi> that is figured wavering and hovering betwixt the two Armies, in the beginning and proſecu<g ref="char:EOLhyphen"/>tion of the fight, is alwayes taken down, and brought to the Lure as 't were, of that Army which in the end has its force intire: And blind Fortune (the Miſtrice that predominates most in Warr) is ever maſter'd by him at length who has his eyes moſt about him; this his Highneſs wiſely conſidering, did alwayes keep a Re<g ref="char:EOLhyphen"/>ſerve of Army intire, for the laſt, the ſupreameſt point of skill in a Generall, as 'tis in a Gamſter not to ſet all his reſt at one ſtake: a Merchant not to venture all his wealth in one bottom, and a Prince not to hazard all his Fortune in one Enterprize: And by this admi<g ref="char:EOLhyphen"/>rable
+<pb n="40" facs="tcp:47979:27"/>Providence of his, his Highneſs won all his batails, or recovered them when they were loſt; as well thoſe in which he commanded in chief, as thoſe under others commands, by his Auſpice were obtayned.</p>
+         </div>
+         <div type="canto">
+            <pb n="41" facs="tcp:47979:27"/>
+            <head>Canto 4.</head>
+            <argument>
+               <head>The Argument.</head>
+               <lg>
+                  <l>
+                     <hi>The next Triumphant Arch, dos repreſent</hi>
+                  </l>
+                  <l>
+                     <hi>The Excellency of Peacefull Government,</hi>
+                  </l>
+                  <l>
+                     <hi>And</hi> Oliver <hi>as accompliſhed declares</hi>
+                  </l>
+                  <l>
+                     <hi>I'th Arts of Peace, as in the Arts of wars.</hi>
+                  </l>
+               </lg>
+            </argument>
+            <lg>
+               <l>AS War dos end in Peace, ſo now they are</l>
+               <l>Ariv'd to th'Arch of Peace, from that of War;</l>
+               <l>Which <hi>Oliver</hi> no ſooner came unto,</l>
+               <l>(O th'
+<note n="*" place="margin">The Enſign of Peace.</note> Olive has both name and Omen too,)</l>
+               <l>But that magnanimous feaver in his breaſt,</l>
+               <l>Whoſe ardent heat, no more would let him reſt</l>
+               <l>Beholding's own, than could <hi>Themiſtocles,</hi>
+               </l>
+               <l>Beholding Trophees of <hi>Meltiades,</hi>
+               </l>
+               <l>Began to quit his boſſom, and relent,</l>
+               <l>At ſight of what, next Arch did repreſent.</l>
+               <pb n="42" facs="tcp:47979:28"/>
+               <l>So when the wind's allay'd that rais'd ſo high</l>
+               <l>The Oceans troubled billows, preſently</l>
+               <l>A gentle Calm dos ſerenat its breaſt,</l>
+               <l>As when the peacefull Halcion builds her neaſt.</l>
+               <l>The ſcene all changed then, and with the ſcene</l>
+               <l>The minds and diſpoſitions of men;</l>
+               <l>The Arch of Warr, now diſappeared quite,</l>
+               <l>And onely that of Peace, appear'd in ſight;</l>
+               <l>Of gentle Peace, that every breaſt inſpires</l>
+               <l>With cheerfull thoughts, and pleaſanteſt deſires,</l>
+               <l>Its fabrique fair <hi>Corinthian</hi> pillars rear,</l>
+               <l>The bordurs all with Flowers crowned were;</l>
+               <l>A hundred feſtons, hundred frutages,</l>
+               <l>Depending from its Corniches, and freez;</l>
+               <l>The Niches fill'd with Curious Imagry,</l>
+               <l>All repreſenting the felicity</l>
+               <l>Of Peacefull dayes, <hi>Peace</hi> in the midſt dos ſit</l>
+               <l>With Olives crown'd, and <hi>Oliver</hi> over it</l>
+               <l>Inthron'd in ſtate; her right hand dos adorn</l>
+               <l>Her ſiſter <hi>Plenty,</hi> with her fruitfull horn;</l>
+               <pb n="43" facs="tcp:47979:28"/>
+               <l>Her left <hi>Content,</hi> and ſmiling <hi>Cheerfulneſs,</hi>
+               </l>
+               <l>Inſeparable companions of <hi>Peace;</hi>
+               </l>
+               <l>
+                  <hi>(a)</hi> Whilſt ſullen and repining <hi>Diſcontent</hi>
+               </l>
+               <l>Offended ſtill with preſent Government,</l>
+               <l>
+                  <hi>Rumour,</hi> and popular murmurings to boot,</l>
+               <l>
+                  <hi>Oliver</hi> nobly tramples under foot,</l>
+               <l>As knowing ne're brave Action was done</l>
+               <l>By thoſe who feard, or apprehended u'm.</l>
+               <l>So having well reſolved what to do,</l>
+               <l>As reſolutely going through with't too,</l>
+               <l>He his conſpicuous courſes ſtill holds on,</l>
+               <l>Juſt as at midnight, the Celeſtial Moon,</l>
+               <l>Her conſtant motion ne're dos intermit,</l>
+               <l>For all the midnight doggs that bark at it.</l>
+               <l>Who out do all detraction can do,</l>
+               <l>Far worſe then Calumnie, or Envie too;</l>
+               <l>For Calumnie adds ſome ill unto our name,</l>
+               <l>Detraction takes away ſome good from Fame,</l>
+               <l>Envie with heavy weight, hangs on the feet</l>
+               <l>Of Worth, to weigh it down as low as it;</l>
+               <pb n="44" facs="tcp:47979:29"/>
+               <l>But diſcontent 's a far more Rabid beaſt,</l>
+               <l>A far more venemous Serpent than the reſt,</l>
+               <l>And dos not only bark, but rend, tear, bite,</l>
+               <l>Hiſſes and ſtings, blaſts and impoyſons quite.</l>
+               <l>This Monſter then, he under-foot dos tread</l>
+               <l>As <hi>Hercules</hi> the barking <hi>Cerberus</hi> did,</l>
+               <l>In noble poſture ſetting of his foot</l>
+               <l>Wholly to quell it, on its barking throat.</l>
+               <l>By him was <hi>Order,</hi> and <hi>Equity,</hi> the one</l>
+               <l>And t'other main ſupporters of his Throne;</l>
+               <l>Who every thing, by War diſordred was,</l>
+               <l>Compoſe and apt unto their proper place;</l>
+               <l>And perſons too, compoſe and order ſo,</l>
+               <l>Each one his proper rank and place dos know;</l>
+               <l>So in the generall Confuſion</l>
+               <l>Of things, when this great Machin firſt begun,</l>
+               <l>The Univerſall Genius, did ſit</l>
+               <l>On the rude Chaos, ſo compoſing it</l>
+               <l>The whole, ow'd all its Ornament, and Grace,</l>
+               <l>To th' apting every part, to 's proper place:</l>
+               <pb n="45" facs="tcp:47979:29"/>
+               <l>Nobility then he dos again reſtore</l>
+               <l>Unto its ſtate, and dignity before,</l>
+               <l>And to the Honour, and the Reverence too,</l>
+               <l>That to its ſtate and dignity is due.</l>
+               <l>Purging the droſſy, poliſhing the rude,</l>
+               <l>New faſhoning the Rough-hewn multitude,</l>
+               <l>From all Eſtates baniſhing abuſe, for what</l>
+               <l>Corruption is in naturall Bodies, that</l>
+               <l>Abuſes are in manners, nor can we</l>
+               <l>From t'one and t'other totally be free,</l>
+               <l>Though tis the Princes, as Phyſitians care</l>
+               <l>To endeavor purging them, where e'r they are.</l>
+               <l>Then ſince both King, and Subject it becomes</l>
+               <l>To know their ſeverall relations;</l>
+               <l>(Like Maſters, and like Fathers thoſe to ſway,</l>
+               <l>Like Servants, and like Children theſe obey.)</l>
+               <l>A miſtique <hi>Janus</hi> that ſupports the Throne,</l>
+               <l>In forme of <hi>Fear</hi> and <hi>Love</hi> conjoyn'd in one,</l>
+               <l>Declares how kingly, Throne ne're ſtood ſecure</l>
+               <l>Where t' one and t'other was unmixt and pure,</l>
+               <pb n="46" facs="tcp:47979:30"/>
+               <l>For fear alone brings hatred, and that hate</l>
+               <l>Brings ſudain ruine to a Princes ſtate,</l>
+               <l>And <hi>Love</hi>'s too high and too Etheriall,</l>
+               <l>In low ignoble boſſoms ere to fall,</l>
+               <l>As vulgar boſſoms too ignobly low,</l>
+               <l>So high, and ſo Etherial fire to know,</l>
+               <l>Their <hi>Love</hi>'s ith Belly and the Eyes, ſo they</l>
+               <l>For ſports
+<note n="*" place="margin">Pane &amp; Circenſe</note> and bread a <hi>Nero</hi> would obey,</l>
+               <l>And on the leaſt <hi>Capriccio</hi> agen</l>
+               <l>Rebell 'gainſt <hi>Trajan,</hi> or the beſt of men:</l>
+               <l>Others, by other wayes then; Kings, alone</l>
+               <l>Grow popular by Admiration.</l>
+               <l>Since th' people them ne're hate, where they Ad<g ref="char:EOLhyphen"/>mire,</l>
+               <l>He to this admiration dos aſpire,</l>
+               <l>By tempering ſo the Rayns o'th Government,</l>
+               <l>They might be both obedient, and content,</l>
+               <l>With intire ſervitude could nor agree,</l>
+               <l>Nor capable were of intire Liberty.</l>
+               <l>So th' excellent Rider gently doth force</l>
+               <l>The ſtuborn neck of the unruly Horſe,</l>
+               <pb n="47" facs="tcp:47979:30"/>
+               <l>The byt ſometimes and curb imploying too,</l>
+               <l>When gentle hand, and ſnaffle will not do;</l>
+               <l>
+                  <hi>(b)</hi> For nothing's more untractable and rude,</l>
+               <l>(They'r furies up) than the wild multitude,</l>
+               <l>As nothing is more tractable and tame,</l>
+               <l>Their furies once allayd, than they again;</l>
+               <l>All in extreams, as thoſe who never know</l>
+               <l>Reaſon, nor ground for any thing they do:</l>
+               <l>Now as Tempeſtuous as the Sea inſtorme,</l>
+               <l>And now again (the Tempeſt ceas't) as calme,</l>
+               <l>To rule which, is ſo difficult a work</l>
+               <l>A God's imployd in't with his triple forke;</l>
+               <l>Mean while to ſteer the bark of Government,</l>
+               <l>No Poet <hi>God</hi> enough could ere invent:</l>
+               <l>So difficult a task have they who ſit</l>
+               <l>At helm of State, to Rule and Govern it.</l>
+               <l>Eſpecially in peace, they find it farr</l>
+               <l>More hard to Rule, and govern, than in war,</l>
+               <l>Where common danger makes them all agree,</l>
+               <l>Ill humour's purged on the Enemy.</l>
+               <pb n="48" facs="tcp:47979:31"/>
+               <l>Of diſcontent, or murmur, not a breath,</l>
+               <l>To diſobey, or mutin, preſent death;</l>
+               <l>Here, they fall fowl on friends, humerous with eaſe</l>
+               <l>Are diſcontented out of wantonneſs,</l>
+               <l>Murmur, and mutin, againſt thoſe who ſway,</l>
+               <l>Counting it gallantry to diſobey.</l>
+               <l>Peace then's a machin of more ſubtle frame,</l>
+               <l>Though War do bear the more Robuſtous name.</l>
+               <l>This <hi>Oliver</hi> knowing, (ignorant of nought,</l>
+               <l>But what's not worth his knowledg &amp; his thought)</l>
+               <l>The outward building fram'd, dos ſtreight begin</l>
+               <l>To bend his care to furniſhing 't within,</l>
+               <l>And more by example, than by precept rules</l>
+               <l>(For Princes alwayes are the nobleſt Schools)</l>
+               <l>Teaching them morall vertues firſt, and then</l>
+               <l>Their duties towards <hi>God,</hi> as towards <hi>Men,</hi>
+               </l>
+               <l>Reducing their devotions from the <hi>meen,</hi>
+               </l>
+               <l>Or outward face, unto the heart within;</l>
+               <l>The minds, and Conſciences of every one,</l>
+               <l>True channell where devotion ſhould run.</l>
+               <pb n="49" facs="tcp:47979:31"/>
+               <l>To ſhew Concatination then of things</l>
+               <l>How Kings are link't to Gods, Subjects to Kings,</l>
+               <l>Down from above a golden chain dos fall,</l>
+               <l>In mutuall links, binds and combines them all,</l>
+               <l>And he's no longer part of th' univerſe</l>
+               <l>Who dos ſubſtract himſelf from this commerce.</l>
+               <l>So ſtones once layd, the Maſon ſtraight dos come</l>
+               <l>And with his Cyment ſo conjoyneth u'm,</l>
+               <l>None from the rank th'ar placed in dos ſwarve,</l>
+               <l>But every one to's proper uſe dos ſerve.</l>
+               <l>Laſt, to declare how every power below,</l>
+               <l>To higheſt heaven dos all Allegeance ow,</l>
+               <l>Midſt golden beams came ſtreaming from a cloud</l>
+               <l>(As it ſome bright divinity did ſhroud)</l>
+               <l>A hand extended forth, a Crown dos bear,</l>
+               <l>Sent (as it were) from Heaven to <hi>Oliver,</hi>
+               </l>
+               <l>
+                  <hi>By me Kings Reign,</hi> fair written over head,</l>
+               <l>By which Inſcription's clearly ſignifi'd,</l>
+               <l>How Crowns not by the peoples power are given,</l>
+               <l>Nor by our own, but onely ſent from Heaven;</l>
+               <pb n="50" facs="tcp:47979:32"/>
+               <l>And heaven it is that dos transfer them ſtill,</l>
+               <l>By onely right of its ſupreameſt will;</l>
+               <l>As clearly in our <hi>Brittiſh</hi> one is ſeen,</l>
+               <l>Obſerve how often't has transferred been,</l>
+               <l>Unto the <hi>Romains</hi> from the <hi>Brittains,</hi> then</l>
+               <l>Unto the <hi>Saxons</hi> from the <hi>Romains,</hi> when</l>
+               <l>T'had ſtreight another turn to th'warlike <hi>Dane,</hi>
+               </l>
+               <l>In divers Battails wonn and loſt again,</l>
+               <l>Untill at laſt the <hi>Norman</hi> Conquerers,</l>
+               <l>Conquers them all, and makes all <hi>England</hi> theirs.</l>
+               <l>Juſt as when many for the prize do run,</l>
+               <l>Amongſt the brave Concurrants, here ſome one</l>
+               <l>The others quite outſtrips, another then</l>
+               <l>As farr the formoſt dos devance agen,</l>
+               <l>Untill at laſt the moſt ſuccesfull makes</l>
+               <l>The Garland his, and claimeth all the ſtakes.</l>
+               <l>So goes the world, whilſt in your private cauſe,</l>
+               <l>Mens differences decided are by Laws;</l>
+               <l>But th'publique, by the ſword, who has moſt might</l>
+               <l>
+                  <hi>(c)</hi> To Empires alwayes has the greateſt right,</l>
+               <pb n="51" facs="tcp:47979:32"/>
+               <l>So much't imports, great Monarks, if they will</l>
+               <l>Conſerve their Kingdoms, to go armed ſtill;</l>
+               <l>And as in Kingdoms, and in Monarchies,</l>
+               <l>So tis in Royall Lines, and Families,</l>
+               <l>Their <hi>Capets</hi> line, dos <hi>Charlemain</hi> exclude,</l>
+               <l>
+                  <hi>Plantaginets</hi> heer in <hi>Tuders</hi> dos conclude,</l>
+               <l>This famely to that famely dos paſs,</l>
+               <l>One race ſucceeds unto another race,</l>
+               <l>One houſe is loſt in t'other, and in fine</l>
+               <l>One Line's extinguiſht by another Line.</l>
+               <l>So tis O Heaven! O juſteſt Heaven ſo tis,</l>
+               <l>In thy divine, Adorable decrees,</l>
+               <l>None may grow proud when they exalted are,</l>
+               <l>And none when th'are depreſt again, diſpair,</l>
+               <l>Heaven ſo at pleaſure changing ſtate of things,</l>
+               <l>It Kings of Subjects makes, Subjects of Kings.</l>
+               <l>That each one this important Truth might know;</l>
+               <l>All change and alter in this world below,</l>
+               <l>Who change and alteration do not love,</l>
+               <l>Muſt leave this world, and go to that above.</l>
+            </lg>
+            <trailer>
+               <hi>FINIS</hi> CANTO 4.</trailer>
+         </div>
+         <div type="annotations">
+            <pb n="52" facs="tcp:47979:33"/>
+            <head>ANNOTATIONS on the Fourth CANTO.</head>
+            <p>(a) <seg rend="decorInit">F</seg>Or diſcontented perſons, thereare, have bin, &amp; ever wil be ſuch, in all new Go<g ref="char:EOLhyphen"/>vernments; neither is the ſoveraign Magiſtrate to expect other Fortune in Governing it, than God himſelf in Governing the World, who can never pleaſe every one, mens minds and diſpoſitions are ſo oppoſite and diverſe; one would have fair weather, another rain; one
+<pb n="53" facs="tcp:47979:33"/>this another that, none thinking himſelf happy, great, nor rich enough; onely (as one ſaid facetiouſly) every one imagins himſelf ſufficient and wiſe enough, though in that they are the moſt deceived of all: and this in<g ref="char:EOLhyphen"/>deed is the main cauſe of all their diſcontents, whilst (for want of judgement) they weigh things with<g ref="char:EOLhyphen"/>out their counterpoiſe; look on effects without their cauſes: know not the wayes which ſelf preſer<g ref="char:EOLhyphen"/>vation obliges States to take; are never contented with their preſent condition: beſides a naturall envy moſt men bear, to all advanc't in dignity above themſelves: when did we but judiciouſly conſider things, and look upon them with unpartiall eyes, we ſhould perceive our ſelves at preſent like men waded through many da<g ref="char:cmbAbbrStroke">̄</g>gers, and even arrived to the brink of ſafety; when to offer to return again, what were it but to plung and ingulph our ſelves into new dangers, and be alwayes begin<g ref="char:EOLhyphen"/>ning, and never make an end? Or if we conſider the Body of the Kingdome, in good convalency from its former ſickneſſe, we ſhould eaſily perceive their in<g ref="char:EOLhyphen"/>gratitude to the Phyſitian; who ſhould rather blame him for that they had not recovered their former health, than thank him for recovering them from their late Malady. I need make no application of this unto his Highneſs Perſon, who certainly preſerves us daily from as great or greater dangers than thoſe we have already paſt; and has ſo far advanc't us on the way of health, as we might eaſily be well, if we would but commit our cures to him, and not permit ſuch Empericks and Mountebanks to tamper with us, who propound ways altogether deſtructive to it, and us.</p>
+            <pb n="54" facs="tcp:47979:34"/>
+            <p>
+               <hi>(b)</hi> Some aptly compare the vulgar to the Sea, then which nothing is more calm and quiet (when unmov'd) nothing (when moved once) more unquiet and turbu<g ref="char:EOLhyphen"/>lent; they aſſigne therefore no leſſe than a <hi>God</hi> to go<g ref="char:EOLhyphen"/>vern it, with his trident, or triple Scepter, of force, gen<g ref="char:EOLhyphen"/>tleneſs, and knowledge how to temper them. And as <hi>Neptune</hi> (in <hi>Virgil</hi>) reprehends <hi>Eolus'</hi> for ſtirring them up unto commotion; ſo Princes are alwayes to be jealous of popular perſons; eſpecially ſuch as from the Pulpit preach the People up to ſuch a height of Re<g ref="char:EOLhyphen"/>bellion, as even to wreſt the trident out of their hands, and involve all in tumult and confuſion. All Bookes therefore teaching them any thing but obedience to the Magiſtrate, (which includes that to God) are to be prohibited them; their reading, even the beſt (of late) having occaſioned more harm than good, (the corrupti<g ref="char:EOLhyphen"/>on of the beſt being always the worſt of things) through their corrupt and prepoſterous interpreting and under<g ref="char:EOLhyphen"/>ſtanding them. Others, no leſſe aptly compare the Vulgar to a Horſe, which well mannaged is most ruly and ſerviceable, but ill, the moſt unrulely and unſer<g ref="char:EOLhyphen"/>viceable beast of all. The Prince therefore is to ſuffer none to mannage them beſides himſelf, which when he does (through weakneſſe, or ignorance) thoſe whom he imploys in it, are rather Princes than himſelf; of whom finally we may ſay, that thoſe who could run away, and caſt their Rider, when they were ridden onely with a Snaffle and gentle hand, ſhould be rid hereafter with a Byt and Curb (by my conſent) but there is great difference to be obſerved, betwixt peo<g ref="char:EOLhyphen"/>ples natures and diſpoſition; ſome as <hi>Tiberius</hi> ſaid,
+<pb n="55" facs="tcp:47979:34"/>of the Romaines, ſeeming onely born for ſervitude, o<g ref="char:EOLhyphen"/>thers (ſuch as the Engliſh) neither patient of intire Servitude, nor capable of intire Liberty: All in gene<g ref="char:EOLhyphen"/>rall (for the ſhame of mankind; I grieve to ſay it) be<g ref="char:EOLhyphen"/>ing of the loweſt ſort of men, and nigheſt unto the Beaſt: Hating and envying all wiſer and better than themſelves, the leſſe judgment they have, the apter to judge every one; their common trade being to ſpeak ill of all, and ſell others ſames, at price of their own reputations, like ſavages ſtaring and offended with every one that is not of their own heard and crue; doing nothing well but follow, and never lea<g ref="char:EOLhyphen"/>ding but they do ill: of ſo ignoble natures, they are onely to be rull'd by fear, incapable of ſo noble a paſſion as Love: Whence thoſe who when they are up, whole Armies cannot lay, One Conſtable with his ſtaff can awe, when they are down; No matter for their grum<g ref="char:EOLhyphen"/>bling them, who alwayes do things unwillingly, but do them as well as if they did them willingly, when they must needs: nor are theſe by birth, but manners to be diſtinguiſhed from the better ſort; your Nobles themſelves not being exempted from them, when once they degenerate and do ignoble things.</p>
+            <p>
+               <hi>(c)</hi> This being ſo, let whoſe liſt admire <hi>Catos</hi> un<g ref="char:EOLhyphen"/>ſeaſonable conſtancy, ſtruggling ſo long againſt Au<g ref="char:EOLhyphen"/>thority, till he was pluckt out of the publique Aſſembly by violent hands, and laid violent hands on himſelf for ſinal remedy: Or, <hi>Cicero's</hi> as unſeaſonable eloquence, who talkt ſo long againſt the Conquering ſide, till he was proſcribed, and lost his head at laſt. I hold him far the wiſer man, who thankt God, he was made of Willow, and not of Oake, that could yeeld and bend in
+<pb n="56" facs="tcp:47979:35"/>ſtorms, whilest tother got nothing by its reſiſtance, but onely to ſhatter its branches and break it ſelf: and if any think them worthy reprehenſion, who are al<g ref="char:EOLhyphen"/>wayes contented and pleaſed with the preſent: cer<g ref="char:EOLhyphen"/>tainly they are more reprehenſible, who are alwayes diſcontented and diſpleaſed with it; fooliſhly looſing the preſent (the onely moment they have to live in here) with vainly dreaming of the paſt, or fu<g ref="char:EOLhyphen"/>ture (no part of their lives at all.)</p>
+            <pb facs="tcp:47979:35"/>
+         </div>
+      </body>
+   </text>
+</TEI>
